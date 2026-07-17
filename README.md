@@ -321,7 +321,7 @@ labs/
 
 ---
 
-# 🚀 Projects
+## Projects
 
 Los proyectos estarán orientados a implementar soluciones de ciberseguridad utilizadas en escenarios empresariales.
 
