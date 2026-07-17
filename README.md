@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/banner/database.jpg" width="900"/>
+  <img src="assets/banner/kali-cubes-purple.jpg" width="900"/>
 </p>
 
 <h1 align="center">CYBERSECURITY</h1>
-<p align="center">MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | MariaDB | MongoDB | SQLite | PL/SQL</p>
+<p align="center">Blue Team | Purple Team | Red Team | SOC Analyst | Network | Incident | Monitoring</p>
