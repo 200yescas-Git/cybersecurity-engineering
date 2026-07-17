@@ -283,3 +283,104 @@ cybersecurity-engineering/
 
 ---
 
+## Technical Domains
+
+### Domain Name
+
+Descripción del dominio y su importancia dentro del ecosistema tecnológico.
+
+Incluye:
+
+- Tecnologías principales.
+- Herramientas utilizadas.
+- Casos de uso.
+- Aplicaciones empresariales.
+
+## Labs
+
+Los laboratorios documentarán escenarios prácticos relacionados con protección, monitoreo, automatización, análisis y administración de plataformas seguras.
+
+Cada laboratorio incluirá:
+
+- Objetivo
+- Requisitos
+- Procedimiento
+- Evidencia
+- Resultados
+- Lecciones aprendidas
+
+### Example
+
+```text
+labs/
+│
+├── lab-01-name/
+├── lab-02-name/
+└── lab-03-name/
+```
+
+---
+
+# 🚀 Projects
+
+Los proyectos estarán orientados a implementar soluciones de ciberseguridad utilizadas en escenarios empresariales.
+
+Ejemplos:
+
+- Hardening de infraestructura.
+- Implementación de SIEM.
+- Automatización de seguridad.
+- Monitoreo empresarial.
+- Respuesta ante incidentes.
+- Arquitecturas seguras.
+
+---
+
+## Learning Paths
+
+Cada dominio tecnológico mantiene sus propias rutas de aprendizaje y certificaciones.
+
+Ejemplos:
+
+```text
+security-fundamentals/
+
+└── learning-paths/
+
+    CompTIA Security+
+
+    ISC² Certified in Cybersecurity
+
+    CISSP
+
+    Curso Completo de Ciberseguridad Defensiva
+
+security-monitoring/
+
+└── learning-paths/
+
+    Cisco SOC Analyst
+
+cloud-security/
+
+└── learning-paths/
+
+    SC-100
+
+    SC-200
+
+    SC-300
+
+network-security/
+
+└── learning-paths/
+
+    Fortinet
+```
+
+---
+
+
+
+
+
