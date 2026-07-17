@@ -380,7 +380,101 @@ network-security/
 
 ---
 
+## Documentation Standards
 
+Toda la documentación seguirá principios de:
 
+- Claridad técnica.
+- Organización consistente.
+- Evidencia práctica.
+- Reproducibilidad.
+- Referencias oficiales.
+- Mejora continua.
+
+---
+
+## Roadmap
+
+### Phase 1 — Security Foundations
+
+- Fundamentos de seguridad.
+- Redes.
+- Sistemas.
+- Criptografía.
+
+### Phase 2 — Infrastructure Security
+
+- Linux Security.
+- Windows Security.
+- Network Security.
+- Cloud Security.
+
+### Phase 3 — Security Operations
+
+- Security Monitoring.
+- Threat Intelligence.
+- Incident Response.
+- Vulnerability Management.
+
+### Phase 4 — Enterprise Security
+
+- Automatización.
+- Arquitecturas seguras.
+- Gobierno.
+- Cumplimiento.
+- Proyectos empresariales.
+
+---
+
+## Lessons Learned
+
+Esta sección documenta:
+
+- Problemas encontrados.
+- Errores cometidos.
+- Soluciones aplicadas.
+- Mejoras realizadas.
+- Conocimientos adquiridos.
+
+---
+
+## Repository Status
+
+**Status:** Active Development
+
+Este repositorio se encuentra en construcción continua como parte de un proceso de aprendizaje y desarrollo profesional.
+
+---
+
+## References
+
+Fuentes utilizadas:
+
+- Documentación oficial.
+- Libros técnicos.
+- Estándares de industria.
+- Cursos especializados.
+- Laboratorios prácticos.
+
+---
+
+## Core Principles
+
+Este repositorio sigue los siguientes principios:
+
+- Continuous Learning.
+- Documentation First.
+- Practical Experience.
+- Technical Excellence.
+- Continuous Improvement.
+- Knowledge Organization.
+
+## Professional Vision
+
+Cada laboratorio, proyecto y documento representa una etapa del proceso de crecimiento técnico, manteniendo como principios fundamentales la práctica constante, la documentación estructurada y la mejora continua.
+
+Más que un repositorio de estudio, este proyecto constituye una base de conocimiento en evolución permanente, orientada a reflejar el desarrollo progresivo de habilidades de ingeniería y la aplicación de buenas prácticas de la industria.
+
+> **Building knowledge through practice, documentation and continuous improvement.**
 
 
